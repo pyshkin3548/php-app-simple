@@ -28,10 +28,12 @@ else
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
+    <section class="instructions">
     <h2 color=red>Hello 4uvaki</h2>
         <br></br>
     <p  color=blue>I just learned how to work with bach scripting</p>
     <p><img src="1.jpg" alt="Girl in a jacket"></p>
+    </section>
     <section class="instructions">
         <h2>What's Next?</h2>
         <ul>
