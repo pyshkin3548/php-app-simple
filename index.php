@@ -31,6 +31,7 @@ else
     <section class="instructions">
     <h2 color=red>Hello 4uvaki</h2>
         <br></br>
+    <h2 color=red>New text example </h2>
     <p  color=blue>I just learned how to work with bach scripting</p>
     <p><img src="1.jpg" alt="Girl in a jacket"></p>
     </section>
